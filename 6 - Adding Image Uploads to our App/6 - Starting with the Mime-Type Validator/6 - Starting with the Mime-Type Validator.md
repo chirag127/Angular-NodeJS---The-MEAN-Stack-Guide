@@ -1,0 +1,1 @@
+# 6 - Starting with the Mime-Type Validator
