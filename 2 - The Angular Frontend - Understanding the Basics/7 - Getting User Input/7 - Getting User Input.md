@@ -1,1 +1,0 @@
-# 7 - Getting User Input

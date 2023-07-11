@@ -1,1 +1,0 @@
-# 3 - Comparing SQL & NoSQL

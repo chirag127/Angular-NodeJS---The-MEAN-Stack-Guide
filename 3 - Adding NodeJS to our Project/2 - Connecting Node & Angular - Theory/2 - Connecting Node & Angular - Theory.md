@@ -1,1 +1,0 @@
-# 2 - Connecting Node & Angular - Theory

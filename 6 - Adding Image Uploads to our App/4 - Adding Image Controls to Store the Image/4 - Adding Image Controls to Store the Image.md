@@ -1,1 +1,0 @@
-# 4 - Adding Image Controls to Store the Image

@@ -1,1 +1,0 @@
-# 8 - Understanding SPA Authentication

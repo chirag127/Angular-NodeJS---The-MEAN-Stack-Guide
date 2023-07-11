@@ -1,1 +1,0 @@
-# 5 - Setting Up MongoDB

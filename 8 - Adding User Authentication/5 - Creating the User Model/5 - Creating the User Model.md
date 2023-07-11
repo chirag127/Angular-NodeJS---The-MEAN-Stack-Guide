@@ -1,1 +1,0 @@
-# 5 - Creating the User Model

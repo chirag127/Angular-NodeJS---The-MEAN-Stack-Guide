@@ -1,1 +1,0 @@
-# 4 - Protecting Resources with Authorization

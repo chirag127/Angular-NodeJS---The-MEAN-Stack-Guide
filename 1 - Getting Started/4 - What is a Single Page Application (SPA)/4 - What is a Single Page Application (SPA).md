@@ -1,1 +1,0 @@
-# 4 - What is a Single Page Application (SPA)
